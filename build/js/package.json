@@ -1,0 +1,17 @@
+{
+  "name": "CSC_Kotlin_Course_Part2",
+  "version": "0.0.1-SNAPSHOT",
+  "private": true,
+  "workspaces": [
+    "packages/CSC_Kotlin_Course_Part2-common",
+    "packages/CSC_Kotlin_Course_Part2-common-test",
+    "packages_imported/kotlin/1.7.10",
+    "packages_imported/kotlin-test-js-runner/1.7.10"
+  ],
+  "resolutions": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.academy.test.system:kotlin-test-system:1.0.9" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.academy.test.system" artifactId="kotlin-test-system" version="1.0.9" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.academy.test.system/kotlin-test-system/1.0.9/70a4762329deede50bf10d5eabff105a199a17f0/kotlin-test-system-1.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,20 @@
+type: framework
+content:
+  - aliasServerIntroduction
+  - aliasServerHowToRun
+  - aliasServerPackages
+  - aliasServerClasses
+  - aliasServerUtil
+  - aliasServerDataClasses
+  - aliasServerTeams
+  - aliasServerCompanionObject
+  - aliasServerMutableMap
+  - aliasServerTeamService
+  - aliasServerAnnotationsValueClasses
+  - aliasServerCard
+  - aliasServerConstantsExtensionFunctions
+  - aliasServerCardService
+  - aliasServerMutableList
+  - aliasServerFinishGame
+is_template_based: false
+current_task: 15

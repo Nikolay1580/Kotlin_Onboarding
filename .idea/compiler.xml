@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="aliasServer.task.CSC_Kotlin_Course_Part2.aliasServer-task.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.aliasServer-task.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.aliasServer-task.test" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.codenamesServer-task.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.codenamesServer-task.test" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.FeedbackSurvey-Survey.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.FeedbackSurvey-Survey.test" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.introduction-task.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.introduction-task.test" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.memoryTrainerServer-task.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.memoryTrainerServer-task.test" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.utils.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.utils.test" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.wordsGeneratorServer-task.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.wordsGeneratorServer-task.test" target="11" />
+      <module name="Kotlin_Onboarding__Object_Oriented_programming.aliasServer.task.CSC_Kotlin_Course_Part2.aliasServer-task.main" target="11" />
+      <module name="Kotlin_Onboarding__Object_Oriented_programming.memoryTrainerServer.task.CSC_Kotlin_Course_Part2.memoryTrainerServer-task.main" target="11" />
+      <module name="Kotlin_Onboarding__Object_Oriented_programming.memoryTrainerServer.task.CSC_Kotlin_Course_Part2.memoryTrainerServer-task.main~1" target="11" />
+      <module name="Kotlin_Onboarding__Object_Oriented_programming.memoryTrainerServer.task.CSC_Kotlin_Course_Part2.memoryTrainerServer-task.test" target="11" />
+      <module name="Kotlin_Onboarding__Object_Oriented_programming.memoryTrainerServer.task.CSC_Kotlin_Course_Part2.memoryTrainerServer-task.test~1" target="11" />
+      <module name="memoryTrainerServer.task.CSC_Kotlin_Course_Part2.memoryTrainerServer-task.main" target="11" />
+      <module name="memoryTrainerServer.task.CSC_Kotlin_Course_Part2.memoryTrainerServer-task.test" target="11" />
+      <module name="task.CSC_Kotlin_Course_Part2.aliasServer-task.main" target="11" />
+      <module name="task.CSC_Kotlin_Course_Part2.codenamesServer-task.test" target="11" />
+      <module name="task.CSC_Kotlin_Course_Part2.memoryTrainerServer-task.main" target="11" />
+      <module name="task.CSC_Kotlin_Course_Part2.memoryTrainerServer-task.test" target="11" />
+      <module name="task.CSC_Kotlin_Course_Part2.wordsGeneratorServer-task.main" target="11" />
+      <module name="task.CSC_Kotlin_Course_Part2.wordsGeneratorServer-task.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

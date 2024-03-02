@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="15" skipped="0" failures="0" errors="0" timestamp="2024-03-02T09:03:52" hostname="Niks-16GB-Browser.local" time="0.278">
+  <properties/>
+  <testcase name="teamTeamServiceTest()" classname="Test" time="0.188"/>
+  <testcase name="gameResultsServiceTest()" classname="Test" time="0.008"/>
+  <testcase name="identifierFactoryClassTest()" classname="Test" time="0.003"/>
+  <testcase name="getAllGameResultsMethodTest()" classname="Test" time="0.003"/>
+  <testcase name="generateCardsMethodTest()" classname="Test" time="0.01"/>
+  <testcase name="cardTest()" classname="Test" time="0.02"/>
+  <testcase name="teamClassTest()" classname="Test" time="0.004"/>
+  <testcase name="[1] words=[], expected=[]" classname="Test" time="0.012"/>
+  <testcase name="[2] words=[dog], expected=[Word(word=dog)]" classname="Test" time="0.001"/>
+  <testcase name="[3] words=[dog, cat], expected=[Word(word=dog), Word(word=cat)]" classname="Test" time="0.001"/>
+  <testcase name="generateTeamsForOneRoundMethodTest()" classname="Test" time="0.001"/>
+  <testcase name="saveGameResultsMethodTest()" classname="Test" time="0.003"/>
+  <testcase name="uniqueIdentifierMethodTest()" classname="Test" time="0.001"/>
+  <testcase name="getCardByIndexMethodTest()" classname="Test" time="0.003"/>
+  <testcase name="cardServiceTest()" classname="Test" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
