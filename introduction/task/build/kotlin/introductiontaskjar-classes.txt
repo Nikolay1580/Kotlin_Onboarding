@@ -1,0 +1,1 @@
+/Users/nik/Desktop/University Work/year_1/Spring/JVM/Kotlin_Onboarding__Object_Oriented_programming/introduction/task/build/classes/kotlin/main/jetbrains/kotlin/course/MainKt.class

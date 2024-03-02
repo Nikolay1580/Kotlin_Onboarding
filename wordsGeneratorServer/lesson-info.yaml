@@ -1,0 +1,12 @@
+type: framework
+custom_name: Words Generator
+content:
+  - wordsGeneratorServerIntroduction
+  - wordsGeneratorServerHowToRun
+  - wordsGeneratorServerTeams
+  - wordsGeneratorServerTeamService
+  - wordsGeneratorServerWord
+  - wordsGeneratorServerWordService
+  - wordsGeneratorServerFinishGame
+is_template_based: false
+current_task: 0
